@@ -63,5 +63,5 @@ export default {
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
   footerText: <>Protein Community {new Date().getFullYear()} © Protein.</>,
-  unstable_faviconGlyph: '👋',
+  unstable_faviconGlyph: '🌱',
 }
