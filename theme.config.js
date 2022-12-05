@@ -17,7 +17,7 @@ export default {
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
       <meta name="description" content="Protein Projects Playbook" />
-      <meta name="og:description" content="Protein Projects Playbook" />
+      <meta name="og:description" content="A framework that invites the Protein Community to collaborate on ideas that, inspired by our seasonal theme, can engage our members into work on impact and cultural projects" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://github.com/zhiganov/protein-playbook/blob/main/public/og.png" />
       <meta name="twitter:site:domain" content="playbook.protein.xyz" />
