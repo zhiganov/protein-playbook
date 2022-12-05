@@ -19,12 +19,12 @@ export default {
       <meta name="description" content="Protein Projects Playbook" />
       <meta name="og:description" content="Protein Projects Playbook" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
+      <meta name="twitter:image" content="https://github.com/zhiganov/protein-playbook/blob/main/public/og.png" />
+      <meta name="twitter:site:domain" content="playbook.protein.xyz" />
+      <meta name="twitter:url" content="https://playbook.protein.xyz" />
       <meta name="og:title" content="Protein Projects Playbook" />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="apple-mobile-web-app-title" content="Nextra" />
+      <meta name="og:image" content="https://github.com/zhiganov/protein-playbook/blob/main/public/og.png" />
+      <meta name="apple-mobile-web-app-title" content="Protein" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
@@ -62,6 +62,6 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
+  footerText: <>Protein Community {new Date().getFullYear()} © Protein.</>,
   unstable_faviconGlyph: '👋',
 }
